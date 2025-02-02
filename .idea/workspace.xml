@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbec663a-dae9-40ab-a632-4a4768e34406" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Faqs.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Faqs.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Logo.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Logo.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Testimonials.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Testimonials.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/screenshots/dashboard-dark.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/screenshots/dashboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/screenshots/registration-form.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Hero.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Hero.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/PrimaryFeatures.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/PrimaryFeatures.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,10 +24,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="C:\Laragon\bin\php\php-7.4.19-nts-Win32-vc15-x64\php.exe" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2sSCStlPfJ4FZfDciBPwPDXBwdJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -47,8 +47,9 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "npm.dev.executor": "Run",
+    "prettierjs.PrettierConfiguration.Package": "C:\\laragon\\www\\nexio-marketing\\node_modules\\prettier",
     "settings.editor.selected.configurable": "MTConfigurable",
-    "ts.external.directory.path": "C:\\Laragon\\www\\nexio-marketing\\node_modules\\typescript\\lib",
+    "ts.external.directory.path": "C:\\laragon\\www\\nexio-marketing\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>

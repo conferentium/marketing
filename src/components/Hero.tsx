@@ -32,7 +32,7 @@ export function Hero() {
       <div className="mt-10 flex justify-center gap-x-6">
         <Button href="/register">Start for free</Button>
       </div>
-      <div className="mt-36 lg:mt-44">
+      {/*<div className="mt-36 lg:mt-44">
         <p className="font-display text-base text-slate-900">
           Trusted by these six companies so far
         </p>
@@ -66,7 +66,7 @@ export function Hero() {
             </li>
           ))}
         </ul>
-      </div>
+      </div>*/}
     </Container>
   )
 }

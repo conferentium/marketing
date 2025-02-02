@@ -7,35 +7,36 @@ import clsx from 'clsx'
 
 import { Container } from '@/components/Container'
 import backgroundImage from '@/images/background-features.jpg'
-import screenshotExpenses from '@/images/screenshots/expenses.png'
-import screenshotPayroll from '@/images/screenshots/payroll.png'
+import dashboardImage from '@/images/screenshots/dashboard.png'
+import dashboardDarkImage from '@/images/screenshots/dashboard-dark.png'
+import registrationImage from '@/images/screenshots/registration-form.png'
 import screenshotReporting from '@/images/screenshots/reporting.png'
 import screenshotVatReturns from '@/images/screenshots/vat-returns.png'
 
 const features = [
   {
-    title: 'Payroll',
+    title: 'Form Builder',
     description:
-      "Keep track of everyone's salaries and whether or not they've been paid. Direct deposit not supported.",
-    image: screenshotPayroll,
+      "Use our form builder to customize the registration form to your linking.",
+    image: dashboardImage,
   },
   {
-    title: 'Claim expenses',
+    title: 'Dark Mode',
     description:
-      "All of your receipts organized into one place, as long as you don't mind typing in the data by hand.",
-    image: screenshotExpenses,
+      "For those who enjoy dark mode, we've built one.",
+    image: dashboardDarkImage,
   },
   {
-    title: 'VAT handling',
+    title: 'Conference Registration',
     description:
       "We only sell our software to companies who don't deal with VAT at all, so technically we do all the VAT stuff they need.",
-    image: screenshotVatReturns,
+    image: registrationImage,
   },
   {
     title: 'Reporting',
     description:
       'Easily export your data into an Excel spreadsheet where you can do whatever the hell you want with it.',
-    image: screenshotReporting,
+    image: dashboardDarkImage,
   },
 ]
 
